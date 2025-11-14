@@ -121,7 +121,12 @@ while True:
 conn.close()
 ```
 #output:
-<img width="1015" height="1100" alt="image" src="https://github.com/user-attachments/assets/5bcfde81-548c-4900-890a-a2d80afbd0ad" />
+
+<img width="1406" height="631" alt="image" src="https://github.com/user-attachments/assets/866a19b2-7f25-4a8e-93ce-b328f59375a5" />
+
+
+<img width="645" height="127" alt="image" src="https://github.com/user-attachments/assets/85440bd2-44f5-489e-a360-1b01fae16c7b" />
+
 
 
 
