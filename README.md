@@ -122,10 +122,7 @@ conn.close()
 ```
 #output:
 
-<img width="1406" height="631" alt="image" src="https://github.com/user-attachments/assets/866a19b2-7f25-4a8e-93ce-b328f59375a5" />
-
-
-<img width="645" height="127" alt="image" src="https://github.com/user-attachments/assets/85440bd2-44f5-489e-a360-1b01fae16c7b" />
+<img width="1855" height="1161" alt="image" src="https://github.com/user-attachments/assets/59418efa-a1ca-4fc7-acb0-25d3f3b1e94e" />
 
 
 
